@@ -1,1 +1,1 @@
-# NotasLab
+# Notas de Laboratorios
